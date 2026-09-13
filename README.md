@@ -14,6 +14,9 @@ Welcome to PAW's GitHub page, we're happy to have you!　⋛⋋( ‘◇’)⋌�
 
 Rest matters to us just as much as activity, **which is why we have a week-long break every month! No activity to worry about, no catching up, just some time for everyone to take it easy.**　૮₍ ´ ꒳ `₎ა :zzz:
 
+<p align="center">
+  <img src="https://media.discordapp.net/attachments/1548252101921214474/1548252482424283206/Untitled283_20260906124943.png?ex=6aa7b37c&is=6aa661fc&hm=cc79d0f9b3ca9371b01b968d99fdfbd5cb77bb401584b4b273443126a5973c43&=&format=webp&quality=lossless" width="100%">
+
 :map:　**But what does PAW OFFER?** I'm glad you asked! We have our very own **custom bots with interactive commands and systems**! They handle a lot of things that would normally need constant staff tracking or manual work, while giving members more things to mess around with themselves.
 
 Some of the most prominent features you will definitely get a taste of in PAW are:
