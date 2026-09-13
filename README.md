@@ -1,16 +1,26 @@
-## Hi there 👋
 
-<!--
-**pawsacrosstheworld/pawsacrosstheworld** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+Welcome to PAW's GitHub page, we're happy to have you!　⋛⋋( ‘◇’)⋌⋚
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**PAW is a wildlife scout project focused on building a welcoming, relaxed community where we're all here to simply have fun!** We never want being part of PAW to start feeling like another responsibility.
+
+Rest matters to us just as much as activity, **which is why we have a week-long break every month! No activity to worry about, no catching up, just some time for everyone to take it easy.**　૮₍ ´ ꒳ `₎ა :zzz:
+
+:map:　**But what does PAW OFFER?** I'm glad you asked! We have our very own **custom bots with interactive commands and systems**! They handle a lot of things that would normally need constant staff tracking or manual work, while giving members more things to mess around with themselves.
+
+Some of the most prominent features you will definitely get a taste of in PAW are:
+
+↳ **GACHA!** Our gacha is full of content, but at the same time the system is really simple to understand & fair! Keep, sell or gift what you find >_<
+
+↳ **COMPANIONS!** You can encounter cute animals through the gacha, giving you their onesie and... themselves..? They can tag along on your adventures, yay, right? You can also play with and take care of them!
+
+↳ **SHOWDOWNS!** Showdowns are your basic combat except with a little something unexpected! Companions aren't there just for fun — they come with special traits that can boost your combat experience!
+
+↳ **GARDEN!** Grow a garden... you do need something to feed your Companion with, am I right or am I right?
+
+↳ **MASCOTS & STORIES!** We have 4 mascots and episodic storylines, kinda like a cartoon!
+
+↳ **SOOOOO MUCH MORE!** Badges, unique activities and plenty of ways to customize your experience!
+
+So, what do you say? Will you head out on **expeditions** across different biomes and document Pony Town's wildlife with us?
+
