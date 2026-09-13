@@ -10,7 +10,7 @@
 
 Welcome to PAW's GitHub page, we're happy to have you!　⋛⋋( ‘◇’)⋌⋚
 
-**PAW is a wildlife scout project focused on building a welcoming, relaxed community where we're all here to simply have fun!** We never want being part of PAW to start feeling like another responsibility.
+- **PAW is a wildlife scout project focused on building a welcoming, relaxed community where we're all here to simply have fun!** We never want being part of PAW to start feeling like another responsibility.
 
 Rest matters to us just as much as activity, **which is why we have a week-long break every month! No activity to worry about, no catching up, just some time for everyone to take it easy.**　૮₍ ´ ꒳ `₎ა :zzz:
 
@@ -39,6 +39,6 @@ PS!!!!!!!!!!!!!!!!!
 
 :construction:　PAW is **still a work in progress**, so there’s plenty we're still building, testing and changing!
 
-If you'd like to join us early, **DM gryboofin**! We especially need **bot testers**, and we're always open to ideas, opinions and suggestions while PAW is still growing. ♡
+- If you'd like to join us early, **DM gryboofin**! We especially need **bot testers**, and we're always open to ideas, opinions and suggestions while PAW is still growing. ♡
 <p align="center">
   <img src="https://media.discordapp.net/attachments/1548252101921214474/1548252531765813268/Untitled283_20260906123806.png?ex=6aa7b388&is=6aa66208&hm=0055d9be1f973a8d2f6fd6c2ec5655799c07dbe679f04bfbda77991e8412edcb&=&format=webp&quality=lossless" width="100%">
