@@ -1,4 +1,12 @@
+<p align="center">
+  <img src="https://media.discordapp.net/attachments/1000835996633538664/1548234083039973406/Untitled275_20260906124628.png?ex=6aa650da&is=6aa4ff5a&hm=92b7a11607fd78e1b35a69b2e476ff0e4d86b4d7e61eff53fbc94ced4c8ee9cd&=&format=webp&quality=lossless&width=1536&height=697" width="100%">
+</p>
 
+<h2 align="center">🐾 PAWS ACROSS THE WORLD</h2>
+
+<p align="center">
+  <b>Wildlife Critter Initiative</b>
+</p>
 
 Welcome to PAW's GitHub page, we're happy to have you!　⋛⋋( ‘◇’)⋌⋚
 
