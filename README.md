@@ -31,4 +31,3 @@ Some of the most prominent features you will definitely get a taste of in PAW ar
 ↳ **SOOOOO MUCH MORE!** Badges, unique activities and plenty of ways to customize your experience!
 
 So, what do you say? Will you head out on **expeditions** across different biomes and document Pony Town's wildlife with us?
-
