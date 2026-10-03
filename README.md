@@ -39,4 +39,4 @@ PS!!!!!!!!!!!!!!!!!
 :construction:　PAW is **still a work in progress**, so there’s plenty we're still building, testing and changing!
 
 - If you'd like to join us early, **Join through the invite link**! We especially need **bot testers**, and we're always open to ideas, opinions and suggestions while PAW is still growing. ♡
-[![image](https://media.discordapp.net/attachments/1000835996633538664/1548234083039973406/Untitled275_20260906124628.png?ex=6aa650da&is=6aa4ff5a&hm=92b7a11607fd78e1b35a69b2e476ff0e4d86b4d7e61eff53fbc94ced4c8ee9cd&=&format=webp&quality=lossless&width=1536&height=697)](https://media.discordapp.net/attachments/1000835996633538664/1548234083039973406/Untitled275_20260906124628.png?ex=6aa650da&is=6aa4ff5a&hm=92b7a11607fd78e1b35a69b2e476ff0e4d86b4d7e61eff53fbc94ced4c8ee9cd&=&format=webp&quality=lossless&width=1536&height=697)
+![divider](https://media.discordapp.net/attachments/1548252101921214474/1548252531765813268/Untitled283_20260906123806.png?ex=6ac168c8&is=6ac01748&hm=56dd9b78818c7a4d92762810f2f29bd81844fa160b506edc9898664ddf7c902e&=&format=webp&quality=lossless)
