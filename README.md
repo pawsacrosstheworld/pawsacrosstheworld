@@ -14,9 +14,7 @@ Welcome to PAW's GitHub page, we're happy to have you!　⋛⋋( ‘◇’)⋌�
 
 Rest matters to us just as much as activity, **which is why we have a week-long break every month! No activity to worry about, no catching up, just some time for everyone to take it easy.**　૮₍ ´ ꒳ `₎ა :zzz:
 
-<p align="center">
-  <img src="[https://media.discordapp.net/attachments/1548252101921214474/1548252482424283206/Untitled283_20260906124943.png?ex=6aaef3bc&is=6aada23c&hm=a8e7c88933282b1bcf2cd026e2024b6896e2dc951e7d1b75caa27a056f1fa042&format=webp&quality=lossless](https://media.discordapp.net/attachments/1548252101921214474/1548252482424283206/Untitled283_20260906124943.png?ex=6ac168bc&is=6ac0173c&hm=18b40457e0e09a588c6630117ccbf66c925c8978f8dc317a3340e4abba1c89e0&=&format=webp&quality=lossless)" width="100%">
-</p>
+![divider](https://media.discordapp.net/attachments/1548252101921214474/1548252482424283206/Untitled283_20260906124943.png?ex=6ac168bc&is=6ac0173c&hm=18b40457e0e09a588c6630117ccbf66c925c8978f8dc317a3340e4abba1c89e0&=&format=webp&quality=lossless)
 
 - **But what does PAW OFFER?** I'm glad you asked! We have our very own **custom bots with interactive commands and systems**! They handle a lot of things that would normally need constant staff tracking or manual work, while giving members more things to mess around with themselves.
 
