@@ -26,7 +26,7 @@ Some of the most prominent features you will definitely get a taste of in PAW ar
 
 ↳ **SHOWDOWNS!** Showdowns are your basic combat except with a little something unexpected! Companions aren't there just for fun — they come with special traits that can boost your combat experience!
 
-↳ **GARDEN!** Grow a garden... you do need something to feed your Companion with, am I right or am I right?
+↳ **GARDEN!** Grow a garden... you do need something to feed your Companion with, am I right or am I right? *Future update*
 
 ↳ **MASCOTS & STORIES!** We have 4 mascots and episodic storylines, kinda like a cartoon!
 
@@ -39,6 +39,4 @@ PS!!!!!!!!!!!!!!!!!
 :construction:　PAW is **still a work in progress**, so there’s plenty we're still building, testing and changing!
 
 - If you'd like to join us early, **Join through the invite link**! We especially need **bot testers**, and we're always open to ideas, opinions and suggestions while PAW is still growing. ♡
-<p align="center">
-  <img src="https://media.discordapp.net/attachments/1548252101921214474/1548252531765813268/Untitled283_20260906123806.png?ex=6aaef3c8&is=6aada248&hm=db7dabf0e6c707fa61fe5a4d2ff7f72f74d71820da782e636aa8632bd8006829&format=webp&quality=lossless](https://media.discordapp.net/attachments/1548252101921214474/1548252531765813268/Untitled283_20260906123806.png?ex=6ac168c8&is=6ac01748&hm=56dd9b78818c7a4d92762810f2f29bd81844fa160b506edc9898664ddf7c902e&=&format=webp&quality=lossless)](https://media.discordapp.net/attachments/1548252101921214474/1548252531765813268/Untitled283_20260906123806.png?ex=6ac168c8&is=6ac01748&hm=56dd9b78818c7a4d92762810f2f29bd81844fa160b506edc9898664ddf7c902e&=&format=webp&quality=lossless" width="100%">
-</p>
+![divider](https://media.discordapp.net/attachments/1548252101921214474/1548252482424283206/Untitled283_20260906124943.png?ex=6ac168bc&is=6ac0173c&hm=18b40457e0e09a588c6630117ccbf66c925c8978f8dc317a3340e4abba1c89e0&=&format=webp&quality=lossless)
