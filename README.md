@@ -1,6 +1,6 @@
-[<p align="center">
-  <img src="[https://media.discordapp.net/attachments/1000835996633538664/1548234083039973406/Untitled275_20260906124628.png?ex=6aa650da&is=6aa4ff5a&hm=92b7a11607fd78e1b35a69b2e476ff0e4d86b4d7e61eff53fbc94ced4c8ee9cd&=&format=webp&quality=lossless&width=1536&height=697](https://media.discordapp.net/attachments/1000835996633538664/1548234083039973406/Untitled275_20260906124628.png?ex=6ac897da&is=6ac7465a&hm=ea6caa4fe88842484a9cca569bfdcab631fe67e7748de16c34f71bfa6d421fa3&=&format=webp&quality=lossless&width=640&height=290)" width="100%">
-</p>](https://media.discordapp.net/attachments/1000835996633538664/1548234083039973406/Untitled275_20260906124628.png?ex=6ac897da&is=6ac7465a&hm=ea6caa4fe88842484a9cca569bfdcab631fe67e7748de16c34f71bfa6d421fa3&=&format=webp&quality=lossless&width=640&height=290)
+<p align="center">
+  <img src="Untitled275_20260906124628.webp" width="100%">
+</p>
 
 
 <h2 align="center">🐾 PAWS ACROSS THE WORLD</h2>
