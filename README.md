@@ -29,17 +29,11 @@ Some of the most prominent features you will definitely get a taste of in PAW ar
 
 ↳ **SHOWDOWNS!** Showdowns are your basic combat except with a little something unexpected! Companions aren't there just for fun — they come with special traits that can boost your combat experience!
 
-↳ **GARDEN!** Grow a garden... you do need something to feed your Companion with, am I right or am I right? *Future update*
+↳ **GARDEN!** Grow a garden... you do need something to feed your Companion with, am I right or am I right? 
 
 ↳ **MASCOTS & STORIES!** We have 4 mascots and episodic storylines, kinda like a cartoon!
 
 ↳ **SOOOOO MUCH MORE!** Badges, unique activities and plenty of ways to customize your experience!
 
 So, what do you say? Will you head out on **expeditions** across different biomes and document Pony Town's wildlife with us?
-
-PS!!!!!!!!!!!!!!!!!
-
-:construction:　PAW is **still a work in progress**, so there’s plenty we're still building, testing and changing!
-
-- If you'd like to join us early, **Join through the invite link**! We especially need **bot testers**, and we're always open to ideas, opinions and suggestions while PAW is still growing. ♡
 ![divider](https://media.discordapp.net/attachments/1548252101921214474/1548252531765813268/Untitled283_20260906123806.png?ex=6ac168c8&is=6ac01748&hm=56dd9b78818c7a4d92762810f2f29bd81844fa160b506edc9898664ddf7c902e&=&format=webp&quality=lossless)
